@@ -12,3 +12,7 @@ Not all systems are on here of course, im doing this for fun and it would be a l
 Feel free to leave a feature request for ones you'd like to see, however. 
 
 If lots of people ask one, i will make an effort to add that system as well.
+
+---
+Please also let me know if anybody would be interested in the project files.
+I made this in krita so i have .kra files, but i can export them as .psd's as well.

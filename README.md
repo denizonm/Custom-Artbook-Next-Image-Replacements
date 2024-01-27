@@ -1,5 +1,7 @@
 # Custom-Artbook-Next-Image-Replacements
 
+![](https://github.com/denizonm/Custom-Artbook-Next-Image-Replacements/blob/main/demonstation.gif?raw=true)
+
 In order to install these, go to the place your distribution puts the emulationstation themes
 >for emulationstation-de, (so including the Steam Deck) it would be in `~/.emulationstation/themes` directory
 >for arkos, its in `/roms/themes`

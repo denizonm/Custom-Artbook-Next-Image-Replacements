@@ -1,5 +1,5 @@
 # Custom-Artbook-Next-Image-Replacements
-
+To download, go up to the green "code" button on the top right and click "Download ZIP" from the drop down menu
 ![](https://github.com/denizonm/Custom-Artbook-Next-Image-Replacements/blob/main/demonstation.gif?raw=true)
 
 In order to install these, go to the place your distribution puts the emulationstation themes
